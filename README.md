@@ -26,20 +26,29 @@ Task - DataScience
 ### BEGINNER LEVEL TASKS
 
   •	Iris Flowers Classification ML Project
+  
   •	Stock Market Prediction And Forecasting Using Stacked LSTM
+  
   •	Music Recommendation
+  
   •	Image to Pencil Sketch with Python
   
 ### INTERMEDIATE LEVEL TASK
+
   •	Exploratory Data Analysis on Dataset - Terrorism
+  
   •	Prediction using Decision Tree Algorithm
   
 ### ADVANCED LEVEL TASK
+
   •	Develop A Neural Network That Can Read Handwriting
+  
   •	Next Word Prediction
+  
   •	Handwritten equation solver using CNN
   
 ### MORE ADVANCED LEVEL TASK
+
 •	ML Facial recognition to detect mood and suggest songs accordingly
 
 ## Badge
