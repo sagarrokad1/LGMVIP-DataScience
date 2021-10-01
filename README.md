@@ -52,7 +52,6 @@ Task - DataScience
 •	ML Facial recognition to detect mood and suggest songs accordingly
 
 ## Badge
-
 ![image](https://user-images.githubusercontent.com/84773742/135618076-926681fe-c645-471f-b51c-ad01aec7ac1f.png)
 
 
